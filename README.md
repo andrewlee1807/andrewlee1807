@@ -1,4 +1,4 @@
-### Andrew 👋
+### Andrew says hello to there... 👋
 
 <p align="center">
   <img width="300" align="left" alt="logo" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
