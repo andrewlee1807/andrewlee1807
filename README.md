@@ -1,7 +1,7 @@
-### Hi there 👋
+### Andrew 👋
 
 <p align="center">
-  <img width="300" alt="logo" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
+  <img width="300" align="left" alt="logo" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
 </p>
 
 <!--
