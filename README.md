@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img width="300" alt="logo" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
+</p>
+
 <!--
 **andrewlee1807/andrewlee1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
