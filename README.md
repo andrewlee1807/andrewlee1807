@@ -4,6 +4,14 @@
   <img width="300" align="left" alt="logo" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
 </p>
 
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewlee1807&show_icons=true&theme=default">
+</p>
+
+
+### Reach me 📫[Email](mailto:andrewlee1807@gmail.com)
+
+
 <!--
 **andrewlee1807/andrewlee1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
