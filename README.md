@@ -8,8 +8,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewlee1807&show_icons=true&theme=default">
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewlee1807&layout=compact)
 
 ### Reach me 📫[Email](mailto:andrewlee1807@gmail.com)
+
+
+
 
 
 <!--
