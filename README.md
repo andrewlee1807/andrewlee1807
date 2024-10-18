@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewlee1807&layout=compact)
 
 ### Reach me 📫[Email](mailto:andrewlee1807@gmail.com)
-### Page ♋[Github](andrewlee1807.github.io/)
+### Page ♋[Github](https://andrewlee1807.github.io/)
 
 
 
