@@ -1,32 +1,43 @@
-### Andrew says hello to there... 👋
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Andrew+Lee;AI+<3+Math" alt="Typing SVG" />
+<br/><br/>
+
+### Currently thinking about
 
 <p align="center">
-  <img width="300" align="left" alt="logo" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
+  Probabilistic forecasting &nbsp;&nbsp;·&nbsp;&nbsp; Multimodal time series models<br/>
+  Agentic AI for SmartFarm &nbsp;&nbsp;·&nbsp;&nbsp; Software 4.0 / Agentware
 </p>
 
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewlee1807&show_icons=true&theme=default">
+---
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=andrewlee1807&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andrewlee1807&layout=compact&theme=default&hide_border=true" height="160" />
+</div>
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="mailto:andrewlee@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://andrewlee.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-BB9AF7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/andrewlee1807">
+    <img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewlee1807&layout=compact)
+<br/>
 
-### Reach me 📫[Email](mailto:andrewlee1807@gmail.com)
-### Page ♋[Github](https://andrewlee1807.github.io/)
-
-
-
-
-<!--
-**andrewlee1807/andrewlee1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <sub>Vietnamese · Based in Korea · Working in English</sub>
+</div>
