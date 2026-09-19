@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Email-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://andrewlee.github.io/">
+  <a href="https://andrewlee1807.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-BB9AF7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
